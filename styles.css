@@ -1,0 +1,106 @@
+.round-dog-image {
+	border-radius: 100%;
+	border-color: #3D8CA7;
+	border-width: 4px;
+	border-style: solid;
+	margin: 1px;
+}
+
+body {
+	font-family: 'Raleway', 'sans-serif';
+	margin: 0;
+}
+
+.align-top-header {
+	max-height: 18px;
+}
+
+.bottom-header {
+	background-image: url(images/park.jpg);
+	background-size: 100%;
+	text-align: center;
+}
+
+.line-up-bubbles {
+	text-align: center;
+	display: inline-block;
+	width: 28%;
+	height: 500px;
+	margin: 2%;
+}
+
+article.line-up-bubbles img {
+	height: 200px;
+}
+
+.dog-paragraph {
+	height: 100px;
+
+}
+
+.dog-icon {
+	max-height: 3%;
+	max-width: 3%;
+}
+
+.horizontal-menu {
+	display: inline-block;
+	width: 40px;
+}
+
+p a {
+	display: inline;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.social-media {
+	display: inline-block;
+	width: 100px;
+}
+
+.teal-text {
+	color: #3D8CA7;
+	border-color: #3D8CA7;
+	border-width: 3px;
+	border-style: solid;
+	background-color: white;
+}
+
+.white-menu {
+	position: relative;
+	left: 85%;
+}
+
+.white-text {
+	color: white;
+}
+
+h1 {
+	padding: 30px;
+}
+
+a {
+	text-decoration: none;
+	color:white;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+button {
+	margin: 20px;
+	font-family: 'Raleway', 'sans-serif';
+}
+
+header {
+	background-color: #92E0E5;
+}
+
+footer {
+	background-color: #3D8CA7;
+	text-align: center;
+}
